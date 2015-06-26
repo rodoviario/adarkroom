@@ -35,6 +35,6 @@ a minimalist text adventure game for your browser
 <td><a href="http://adarkroom.doublespeakgames.com/?lang=vi">Vietnamese</a>
 </table>
 
-or play the latest on [GitHub](http://doublespeakgames.github.io/adarkroom)
+or play the latest on [GitHub](http://rodoviario.github.io/adarkroom)
 
 [![app store](http://i.imgur.com/M6jlJQH.png)](https://itunes.apple.com/us/app/a-dark-room/id736683061)
